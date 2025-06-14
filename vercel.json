@@ -1,0 +1,6 @@
+{
+  "middleware": {
+    "source": "/blog/:path*",
+    "destination": "/middleware"
+  }
+}
